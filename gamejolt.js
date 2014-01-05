@@ -3,6 +3,7 @@
  * @version 0.2
  * @licence opensource
  * URL: http://games.aevi.pl/
+ * based on https://github.com/hworld/gj-html-api
  */
 
 ig.module(
